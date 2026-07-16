@@ -1,0 +1,16 @@
+[33mcommit 8f6bfb14bf5d1a4d27cbe6d2b28ff48bceca48d7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: santosh5444 <ramasantoshreddydwarampudi@gmail.com>
+Date:   Thu Jul 16 21:26:27 2026 +0530
+
+    Add Snake Game project
+
+ snake-game/data.txt            |  1 [32m+[m
+ snake-game/food.py             | 20 [32m++++++++++++++++[m
+ snake-game/main.py             | 47 [32m++++++++++++++++++++++++++++++++++++[m
+ snake-game/scoreboard.py       | 40 [32m+++++++++++++++++++++++++++++++[m
+ snake-game/snake.py            | 54 [32m++++++++++++++++++++++++++++++++++++++++++[m
+ turtle-crossing/car_manager.py | 32 [32m+++++++++++++++++++++++++[m
+ turtle-crossing/main.py        | 39 [32m++++++++++++++++++++++++++++++[m
+ turtle-crossing/player.py      | 26 [32m++++++++++++++++++++[m
+ turtle-crossing/scoreboard.py  | 24 [32m+++++++++++++++++++[m
+ 9 files changed, 283 insertions(+)
